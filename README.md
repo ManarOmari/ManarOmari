@@ -6,6 +6,7 @@
 - 🔭 I’m currently working Full Stack Developer.
 - 🌱 I’m currently learning Js and React
 - ⚡ Fun fact: I spend my free time to learn new technologies
+- I currently open for new offers.
 
 
 <!--
